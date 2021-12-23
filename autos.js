@@ -1,3 +1,5 @@
+const fs = require('fs');
+
 let autos = [{
   marca:'Ford',
   modelo:'Fiesta',
